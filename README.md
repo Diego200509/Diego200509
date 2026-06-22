@@ -3,16 +3,47 @@
 ## Sobre mí
 
 - 🎓 Actualmente estoy estudiando **Ingeniería en Software** en la Universidad Técnica de Ambato, donde estoy desarrollando habilidades en programacion.
-- 💻 Tengo experiencia trabajando con **Java** y **MySQL** y estoy en constante aprendizaje de tecnologías de backend y desarrollo de bases de datos.
-- 🖥️ Interesado en el desarrollo de **interfaces gráficas** intuitivas y funcionales, con el objetivo de mejorar la experiencia del usuario.
-- 🌐 Aprendiendo sobre **desarrollo web** y buenas prácticas de programación para crear aplicaciones escalables y eficientes.
-- 📚 Siempre en busca de nuevas herramientas y metodologías para mejorar mis habilidades y mantenerme actualizado en un campo que evoluciona rápidamente.
-- 🤝 Colaborativo y dispuesto a trabajar en equipo, valorando la importancia de compartir conocimientos y aprender de otros desarrolladores.
+- 💻 Tengo experiencia en desarrollo de software, bases de datos y automatización de procesos.
+- 🤖 Interesado en la aplicación de **Inteligencia Artificial**, automatización de flujos de trabajo y transformación digital.
+- 🌐 Apasionado por el desarrollo de aplicaciones web y de escritorio, aplicando buenas prácticas de programación y diseño de software.
+- 📚 Siempre en constante aprendizaje de nuevas tecnologías, herramientas y metodologías que permitan crear soluciones más eficientes y escalables.
+- 🤝 Me gusta trabajar en equipo, compartir conocimientos y colaborar en proyectos que impulsen la innovación tecnológica.
 
 ## Tecnologías y Herramientas
 
-- Lenguajes: **Java**, y en proceso de aprendizaje de **Python** y **JavaScript**
-- Bases de datos: **MySQL**
-- Herramientas de control de versiones: **Git**, **GitHub** y **GitLab**
-- IDEs y Editores: **Eclipse**, **Visual Studio Code** y **NetBeans**
-- Otros: Diseño de **interfaces gráficas** y **principios de UX/UI**
+### Lenguajes
+
+- **TypeScript**
+- **JavaScript**
+- **Java**
+- **Python**
+- **PHP**
+- **C#**
+- **SQL**
+- **HTML5**
+- **CSS3**
+
+### Frameworks y Tecnologías
+
+- **Spring Boot**
+- **Angular**
+- **Laravel**
+- **Node.js**
+- **Express.js**
+- **Bootstrap**
+- **React**
+- **jQuery**
+
+### Bases de Datos
+
+- **MySQL**
+- **PostgreSQL**
+- **SQL Server**
+- **Supabase**
+
+### Herramientas de Control de Versiones
+
+- **Git**
+- **GitHub**
+- **GitLab**
+
