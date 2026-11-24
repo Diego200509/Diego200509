@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="right">
-  <img src="./assets/idioma-en-actual.svg" height="40" alt="English, current language">
+  <a href="#top"><img src="./assets/idioma-en-actual.svg" height="40" alt="English, current language"></a>
   <a href="./README.es.md"><img src="./assets/idioma-es.svg" height="40" alt="Leer en español"></a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <a name="featured-projects"></a>
 
-<h2 align="center"><img src="./assets/en/seccion-proyectos.svg" width="640" alt="Featured projects"></h2>
+<h2 align="center"><a href="#featured-projects"><img src="./assets/en/seccion-proyectos.svg" width="640" alt="Featured projects"></a></h2>
 
 <p align="center">
   <a href="https://diego200509.github.io/?lang=en"><img src="./assets/en/ficha-distrito.svg" width="388" alt="Distrito Cero. A 3D neighborhood connecting my projects. Game screenshot. Explore the district."></a>
@@ -82,7 +82,7 @@
 
 <a name="technologies"></a>
 
-<h2 align="center"><img src="./assets/en/seccion-tecnologias.svg" width="640" alt="Technologies"></h2>
+<h2 align="center"><a href="#technologies"><img src="./assets/en/seccion-tecnologias.svg" width="640" alt="Technologies"></a></h2>
 
 <p align="center">
   <picture>
@@ -93,7 +93,7 @@
 
 <a name="about"></a>
 
-<h2 align="center"><img src="./assets/en/seccion-perfil.svg" width="640" alt="About me"></h2>
+<h2 align="center"><a href="#about"><img src="./assets/en/seccion-perfil.svg" width="640" alt="About me"></a></h2>
 
 <p align="center">
   <img src="./assets/en/sobre-diego.svg" width="100%" alt="Diego Jijón, a Software Engineering student at the Technical University of Ambato, with his avatar in the Distrito Cero plaza.">
@@ -103,7 +103,7 @@ I enjoy working on applications end to end. At Ambacar, I worked on interfaces a
 
 <a name="contact"></a>
 
-<h2 align="center"><img src="./assets/en/seccion-contacto.svg" width="640" alt="Contact"></h2>
+<h2 align="center"><a href="#contact"><img src="./assets/en/seccion-contacto.svg" width="640" alt="Contact"></a></h2>
 
 <p align="center">
   Based in <strong>Ambato, Ecuador</strong>. Open to remote opportunities and software development collaborations.

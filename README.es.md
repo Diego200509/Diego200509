@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="https://github.com/Diego200509"><img src="./assets/idioma-en.svg" height="40" alt="Read in English"></a>
-  <img src="./assets/idioma-es-actual.svg" height="40" alt="Español, idioma actual">
+  <a href="#inicio"><img src="./assets/idioma-es-actual.svg" height="40" alt="Español, idioma actual"></a>
 </p>
 
 <div align="center">
@@ -34,7 +34,7 @@
 
 <a name="proyectos-destacados"></a>
 
-<h2 align="center"><img src="./assets/seccion-proyectos.svg" width="640" alt="Proyectos destacados"></h2>
+<h2 align="center"><a href="#proyectos-destacados"><img src="./assets/seccion-proyectos.svg" width="640" alt="Proyectos destacados"></a></h2>
 
 <p align="center">
   <a href="https://diego200509.github.io/?lang=es"><img src="./assets/ficha-distrito.svg" width="388" alt="Distrito Cero. Barrio 3D que conecta mis proyectos. Captura del juego. Explorar el distrito."></a>
@@ -82,7 +82,7 @@
 
 <a name="tecnologías"></a>
 
-<h2 align="center"><img src="./assets/seccion-tecnologias.svg" width="640" alt="Tecnologías"></h2>
+<h2 align="center"><a href="#tecnologías"><img src="./assets/seccion-tecnologias.svg" width="640" alt="Tecnologías"></a></h2>
 
 <p align="center">
   <picture>
@@ -93,7 +93,7 @@
 
 <a name="sobre-mi"></a>
 
-<h2 align="center"><img src="./assets/seccion-perfil.svg" width="640" alt="Sobre mí"></h2>
+<h2 align="center"><a href="#sobre-mi"><img src="./assets/seccion-perfil.svg" width="640" alt="Sobre mí"></a></h2>
 
 <p align="center">
   <img src="./assets/sobre-diego.svg" width="100%" alt="Diego Jijón, estudiante de Ingeniería en Software en la Universidad Técnica de Ambato, con su avatar en la plaza de Distrito Cero.">
@@ -103,7 +103,7 @@ Me gusta trabajar en aplicaciones de principio a fin. En Ambacar trabajé con in
 
 <a name="contacto"></a>
 
-<h2 align="center"><img src="./assets/seccion-contacto.svg" width="640" alt="Contacto"></h2>
+<h2 align="center"><a href="#contacto"><img src="./assets/seccion-contacto.svg" width="640" alt="Contacto"></a></h2>
 
 <p align="center">
   Desde <strong>Ambato, Ecuador</strong>. Abierto a oportunidades remotas y colaboraciones en desarrollo de software.
