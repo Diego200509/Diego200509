@@ -111,7 +111,7 @@ Me gusta trabajar en aplicaciones de principio a fin. En Ambacar trabajé con in
 
 <p align="center">
   <a href="mailto:diegojijon2005@gmail.com"><img src="./assets/contacto-correo.svg" height="50" alt="Correo: diegojijon2005@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/diego-jij%C3%B3n-undefined-981508311/"><img src="./assets/contacto-linkedin.svg" height="50" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/diegojijon/"><img src="./assets/contacto-linkedin.svg" height="50" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/diegojijon09/"><img src="./assets/contacto-instagram.svg" height="50" alt="Instagram"></a>
 </p>
 
