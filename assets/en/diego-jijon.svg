@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 382" role="img" aria-labelledby="title desc">
+  <title id="title">Diego Jijón · Distrito Cero</title>
+  <desc id="desc">Software engineering. Web interfaces, APIs and applied AI. Map showing the plaza and five district stations.</desc>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#202328"/>
+      <stop offset=".68" stop-color="#17191c"/>
+      <stop offset="1" stop-color="#191b1d"/>
+    </linearGradient>
+    <radialGradient id="goldWash">
+      <stop stop-color="#ab7850" stop-opacity=".33"/>
+      <stop offset="1" stop-color="#ab7850" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path fill="none" d="M32 0H0v32" stroke="#e3ccaa" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1120" height="382" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1120" height="382" fill="url(#base)"/>
+    <ellipse cx="874" cy="240" rx="391" ry="270" fill="url(#goldWash)"/>
+    <rect x="624" width="496" height="382" fill="url(#grid)"/>
+    <path d="M795 0 582 382M846 0 633 382" fill="none" stroke="#e3ccaa" stroke-opacity=".1"/>
+    <path d="M56 96H1064M56 304H1064" stroke="#e3ccaa" stroke-opacity=".22"/>
+    <path d="M56 96H218" stroke="#e3ccaa" stroke-width="2"/>
+    <g transform="translate(56 31) scale(.88)">
+      <path fill="#f7c886" d="m20 1 18 10v18L20 39 2 29V11Z"/>
+      <path fill="none" stroke="#282119" stroke-width="2.4" stroke-linejoin="round" d="m11 15 9-5 9 5v10l-9 5-9-5Zm0 0 9 5 9-5m-9 5v10"/>
+    </g>
+    <g font-family="Consolas, Courier New, monospace" fill="#e3ccaa">
+      <text x="106" y="55" font-size="19" font-weight="700" letter-spacing="3">DISTRITO CERO</text>
+      <text x="1064" y="55" font-size="16" text-anchor="end" letter-spacing="1.7">AMBATO, ECUADOR</text>
+      <text x="56" y="140" font-size="19" letter-spacing="3">SOFTWARE ENGINEERING</text>
+    </g>
+    <text x="52" y="225" font-family="Arial Narrow, Segoe UI, sans-serif" font-size="87" font-weight="800" letter-spacing="-3" fill="#f9f4e8">Diego <tspan fill="#e3ccaa">Jijón</tspan></text>
+    <text x="56" y="271" font-family="Segoe UI, sans-serif" font-size="26" fill="#e8e3d9">Web interfaces · APIs · Applied AI</text>
+    <g font-family="Consolas, Courier New, monospace" font-size="16" fill="#e3ccaa">
+      <text x="56" y="346" letter-spacing="1.2">@DIEGO200509</text>
+      <text x="1064" y="346" text-anchor="end" letter-spacing="1.2">DISTRICT MAP</text>
+    </g>
+    <g font-family="Consolas, Courier New, monospace" font-size="15" text-anchor="middle" fill="#f9f4e8">
+      <path d="M867 139V208M732 198H790L809 208H867l30-10h107M867 208v28l-70 22v14m70-64v28l65 22v14" stroke="#e3ccaa" stroke-opacity=".62" stroke-width="1.8" fill="none"/>
+      <circle cx="867" cy="208" r="36" fill="#e3ccaa" opacity=".05"/>
+      <circle cx="867" cy="208" r="26" fill="#2e2a25" stroke="#e3ccaa" stroke-dasharray="2 4"/>
+      <circle cx="867" cy="208" r="9" fill="#f7c886"/>
+      <circle cx="867" cy="208" r="3" fill="#261d15"/>
+      <text x="867" y="252" fill="#e3ccaa">PLAZA</text>
+      <circle cx="867" cy="139" r="5" fill="#f7c886"/>
+      <text x="867" y="127">RGB LAB</text>
+      <circle cx="732" cy="198" r="5" fill="#f7c886"/>
+      <text x="732" y="186">ASOTEMA</text>
+      <circle cx="1004" cy="198" r="5" fill="#f7c886"/>
+      <text x="1004" y="186">TALKAPP</text>
+      <circle cx="797" cy="272" r="5" fill="#f7c886"/>
+      <text x="797" y="292">AMBACAR</text>
+      <circle cx="932" cy="272" r="5" fill="#f7c886"/>
+      <text x="932" y="292">AI TRAFFIC LIGHT</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1118" height="380" rx="17" fill="none" stroke="#50453a" stroke-width="2"/>
+</svg>
