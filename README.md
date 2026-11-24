@@ -1,3 +1,5 @@
+<a name="inicio"></a>
+
 <div align="center">
   <a href="https://diego200509.github.io/">
     <picture>
@@ -16,75 +18,102 @@
 <p align="center">
   <a href="#proyectos-destacados">Proyectos</a> ·
   <a href="#tecnologías">Tecnologías</a> ·
+  <a href="#sobre-mi">Sobre mí</a> ·
   <a href="#contacto">Contacto</a>
 </p>
 
-Soy **Diego Jijón**, estudiante de Ingeniería en Software en la **Universidad Técnica de Ambato**. Desarrollo aplicaciones web desde la interfaz hasta la API y la base de datos. Me interesa aplicar IA a problemas concretos, como consultar el avance de un proyecto o comparar estrategias de control de tráfico.
+<p align="center">
+  Soy <strong>Diego Jijón</strong>, estudiante de Ingeniería en Software en la <strong>Universidad Técnica de Ambato</strong>.<br>
+  Desarrollo aplicaciones web que conectan interfaces, servicios y datos.
+</p>
 
-## Proyectos destacados
+<a name="proyectos-destacados"></a>
 
-### Distrito Cero · Portafolio interactivo
+<h2 align="center"><img src="./assets/seccion-proyectos.svg" width="640" alt="Proyectos destacados"></h2>
 
-Un barrio 3D que puedes recorrer para descubrir mis proyectos. Cada estación conecta el recorrido con una demo, desde un cruce de tráfico hasta un laboratorio de procesamiento de imágenes.
-
-<a href="https://diego200509.github.io/">
-  <img src="./assets/plaza-distrito-cero.webp" width="640" alt="Captura de Distrito Cero. El personaje cruza la plaza entre ASOTEMA y el Laboratorio RGB, con tres prismas de colores sobre la fachada.">
-</a>
-
-**Mi aporte.** Desarrollé el barrio, integré las demos en la campaña y programé la banda sonora que cambia según lo que ocurre en el juego.
-
-**Tecnologías.** Three.js · JavaScript · Web Audio API
-
-[Explorar el distrito](https://diego200509.github.io/) · [Ver las demos](https://diego200509.github.io/#projects) · [Ver código](https://github.com/Diego200509/diego200509.github.io)
-
-### Ambacar · Gestión de usuarios ZEUS
-
-Caso de mis prácticas en el módulo de administración de usuarios de AMBYSOFT.
-
-**Mi aporte.** Diseñé pantallas para registrar y editar usuarios, conecté las vistas con los servicios del backend e implementé filtros y paginación del lado del servidor.
+<p align="center">
+  <a href="https://diego200509.github.io/"><img src="./assets/ficha-distrito.svg" width="388" alt="Distrito Cero. Barrio 3D que conecta mis proyectos. Captura del juego. Explorar el distrito."></a>
+  <a href="https://diego200509.github.io/#featured"><img src="./assets/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. Registro y administración de usuarios. Recreación del taller en 3D. Ver el caso y la demo."></a>
+</p>
+<p align="center">
+  <a href="https://diego200509.github.io/talkapp.html?lang=es"><img src="./assets/ficha-talkapp.svg" width="388" alt="TalkApp. Chats, notas de voz y videollamadas. Esquema de mensajería con Socket.IO. Ver la ficha y la demo."></a>
+  <a href="https://github.com/Diego200509/sicop-agente"><img src="./assets/ficha-sicop.svg" width="388" alt="SICOP Agente. Esquema de un asistente que consulta datos de SICOP para responder preguntas sobre tareas. Ver código."></a>
+</p>
+<p align="center">
+  <a href="https://diego200509.github.io/semaforo-ia.html?lang=es"><img src="./assets/ficha-semaforo.svg" width="388" alt="Semáforo IA. Esquema de un cruce que permite comparar control fijo y adaptativo. Probar el simulador."></a>
+  <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=es"><img src="./assets/ficha-rgb.svg" width="388" alt="Laboratorio RGB. Captura de la aplicación de escritorio para comparar canales, ajustar contraste tonal y consultar histogramas. Explorar el laboratorio."></a>
+</p>
 
 <details>
-  <summary>Ver el flujo de registro</summary>
+<summary><strong>Mi aporte en Distrito Cero y Ambacar</strong></summary>
 
-  <p>La demo del portafolio muestra cómo se ingresan los datos de un usuario, se asignan la agencia, la división y el rol, y se valida el registro. La simulación usa datos ficticios.</p>
-  <a href="https://diego200509.github.io/#featured">
-    <img src="./assets/taller-ambacar.webp" width="530" alt="Recreación del taller de TI de Ambacar dentro del portafolio Distrito Cero.">
-  </a>
+**Distrito Cero.** Desarrollé el barrio con Three.js, integré las demos en la campaña y programé la banda sonora que cambia según lo que ocurre en el juego. [Ver código](https://github.com/Diego200509/diego200509.github.io) · [Probar las demos](https://diego200509.github.io/#projects)
+
+**Ambacar · ZEUS.** Diseñé pantallas para registrar y editar usuarios, conecté las vistas con el backend e implementé filtros y paginación del lado del servidor. La recreación del portafolio muestra el flujo de registro con datos ficticios. [Ver caso y demo](https://diego200509.github.io/#featured)
+
 </details>
 
-[Ver caso y demo de ZEUS](https://diego200509.github.io/#featured)
+<details>
+<summary><strong>Mi aporte en TalkApp y SICOP Agente</strong></summary>
 
-### TalkApp · Comunicación en tiempo real
+**TalkApp.** Trabajé en los módulos de acceso y chat, incorporé notas de voz y desarrollé la videollamada individual. [Ver código](https://github.com/Diego200509/talk-app)
 
-Aplicación web que reúne conversaciones individuales, grupos y videollamadas.
+**SICOP Agente.** Desarrollé un asistente que usa datos de seguimiento del proyecto para responder preguntas sobre el estado de las tareas. [Ver código](https://github.com/Diego200509/sicop-agente)
 
-**Mi aporte.** Trabajé en la mensajería en tiempo real, que entrega los mensajes mediante Socket.IO y conserva el historial en MongoDB.
+</details>
 
-**Tecnologías.** Next.js · TypeScript · Express · MongoDB · Socket.IO · WebRTC
+<details>
+<summary><strong>Mi aporte en Semáforo IA y Laboratorio RGB</strong></summary>
 
-[Ver ficha y demo](https://diego200509.github.io/talkapp.html?lang=es) · [Ver código](https://github.com/Diego200509/talk-app)
+**Semáforo IA.** Ajusté la medición de colas y el cambio de fase por eje. También incorporé elitismo al algoritmo genético y ajusté su evaluación para penalizar esperas y colas extremas. [Ver código](https://github.com/Diego200509/Semaforo_IA)
 
-### SICOP Agente · IA aplicada al seguimiento de proyectos
+**Laboratorio RGB.** Implementé la separación de canales, el cálculo de histogramas y la reconstrucción de imágenes. También añadí una ventana para inspeccionar cada histograma y los cambios de contraste. [Ver código](https://github.com/Diego200509/Lab_imagenes_rgb)
 
-**Mi aporte.** Desarrollé un asistente que usa datos de seguimiento de SICOP para responder preguntas sobre el estado de las tareas.
+</details>
 
-**Tecnologías.** Next.js · TypeScript · Supabase · OpenAI
+<p align="center">
+  <a href="https://github.com/Diego200509?tab=repositories"><img src="./assets/ver-repositorios.svg" height="42" alt="Ver todos mis repositorios"></a>
+</p>
 
-[Ver código](https://github.com/Diego200509/sicop-agente)
+<a name="tecnologías"></a>
 
-[Ver más proyectos](https://diego200509.github.io/archive.html?lang=es) · [Ver todos mis repositorios](https://github.com/Diego200509?tab=repositories)
+<h2 align="center"><img src="./assets/seccion-tecnologias.svg" width="640" alt="Tecnologías"></h2>
 
-## Tecnologías
+<p align="center">
+  <picture>
+    <source media="(max-width: 690px)" srcset="./assets/mapa-tecnologias-movil.svg">
+    <img src="./assets/mapa-tecnologias.svg" width="100%" alt="Interfaces web: TypeScript, JavaScript, React, Next.js y Angular. Servicios y datos: Node.js, Express, PostgreSQL, SQL Server, MySQL, MongoDB y Supabase. IA aplicada: Python, OpenAI, lógica difusa y algoritmos genéticos. Experiencias 3D: Three.js, WebGL y Web Audio API.">
+  </picture>
+</p>
 
-| Área | Herramientas que he usado |
-| --- | --- |
-| **Interfaces web** | TypeScript, JavaScript, React, Next.js y Angular |
-| **Servicios y datos** | Node.js, Express, PostgreSQL, SQL Server, MySQL, MongoDB y Supabase |
-| **IA aplicada** | Python, OpenAI, lógica difusa y algoritmos genéticos |
-| **Experiencias interactivas** | Three.js, WebGL y Web Audio API |
+<a name="sobre-mi"></a>
 
-## Contacto
+<h2 align="center"><img src="./assets/seccion-perfil.svg" width="640" alt="Sobre mí"></h2>
 
-Desde **Ambato, Ecuador**. Abierto a oportunidades remotas y colaboraciones en desarrollo de software.
+<p align="center">
+  <img src="./assets/sobre-diego.svg" width="100%" alt="Diego Jijón, estudiante de Ingeniería en Software en la Universidad Técnica de Ambato, con su avatar en la plaza de Distrito Cero.">
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/diego-jij%C3%B3n-undefined-981508311/) · [Correo](mailto:diegojijon2005@gmail.com) · [CV](https://diego200509.github.io/cv.html?lang=es)
+Me gusta trabajar en aplicaciones de principio a fin. En Ambacar trabajé con interfaces y servicios para la administración de usuarios. En mis proyectos también he explorado cómo consultar el avance de una tarea con IA y cómo adaptar un semáforo al tráfico de un cruce.
+
+<a name="contacto"></a>
+
+<h2 align="center"><img src="./assets/seccion-contacto.svg" width="640" alt="Contacto"></h2>
+
+<p align="center">
+  Desde <strong>Ambato, Ecuador</strong>. Abierto a oportunidades remotas y colaboraciones en desarrollo de software.
+</p>
+
+<p align="center">
+  <a href="mailto:diegojijon2005@gmail.com"><img src="./assets/contacto-correo.svg" height="42" alt="Escríbeme por correo"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/diego-jij%C3%B3n-undefined-981508311/"><img src="./assets/contacto-linkedin.svg" height="42" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://diego200509.github.io/cv.html?lang=es"><img src="./assets/ver-cv.svg" height="42" alt="Ver CV"></a>
+</p>
+
+<p align="center">
+  <a href="mailto:diegojijon2005@gmail.com"><img src="./assets/cierre-distrito.svg" width="100%" alt="Colaboremos. Enviar un correo a Diego Jijón."></a>
+</p>
+
+<p align="center"><a href="#inicio">↑ Volver al inicio</a></p>
