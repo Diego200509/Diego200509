@@ -49,6 +49,10 @@
   <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=es"><img src="./assets/ficha-rgb.svg" width="388" alt="Laboratorio RGB. Captura de la aplicación de escritorio para comparar canales, ajustar contraste tonal y consultar histogramas. Explorar el laboratorio."></a>
 </p>
 
+<p align="center">
+  <a href="https://diego200509.github.io/asotema.html?lang=es#evidencia"><img src="./assets/ficha-asotema.svg" width="388" alt="ASOTEMA. Estado de cuenta de un socio ficticio. Ver la ficha y la captura de la aplicación."></a>
+</p>
+
 <details>
 <summary><strong>Mi aporte en Distrito Cero y Ambacar</strong></summary>
 

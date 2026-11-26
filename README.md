@@ -49,6 +49,10 @@
   <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=en"><img src="./assets/en/ficha-rgb.svg" width="388" alt="RGB Lab. Screenshot of the desktop app for comparing color channels, adjusting contrast and viewing histograms. Explore the lab."></a>
 </p>
 
+<p align="center">
+  <a href="https://diego200509.github.io/asotema.html?lang=en#evidencia"><img src="./assets/en/ficha-asotema.svg" width="388" alt="ASOTEMA. Account statement for a fictional member. View the case study and app screenshot."></a>
+</p>
+
 <details>
 <summary><strong>My work on Distrito Cero and Ambacar</strong></summary>
 
