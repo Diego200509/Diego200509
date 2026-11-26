@@ -37,19 +37,15 @@
 <h2 align="center"><a href="#proyectos-destacados"><img src="./assets/seccion-proyectos.svg" width="640" alt="Proyectos destacados"></a></h2>
 
 <p align="center">
-  <a href="https://diego200509.github.io/?lang=es"><img src="./assets/ficha-distrito.svg" width="388" alt="Distrito Cero. Barrio 3D que conecta mis proyectos. Avatar actualizado en la plaza restaurada. Explorar el distrito."></a>
   <a href="https://diego200509.github.io/?lang=es#featured"><img src="./assets/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. Registro y administración de usuarios. Vista 3D del taller de Ambacar. Ver el caso y la demo."></a>
-</p>
-<p align="center">
   <a href="https://diego200509.github.io/talkapp.html?lang=es"><img src="./assets/ficha-talkapp.svg" width="388" alt="TalkApp. Chats, notas de voz y videollamadas. Captura de la aplicación con una conversación de prueba. Ver la ficha y la demo."></a>
+</p>
+<p align="center">
   <a href="https://github.com/Diego200509/sicop-agente"><img src="./assets/ficha-sicop.svg" width="388" alt="SICOP Agente. Esquema de un asistente que consulta datos de SICOP para responder preguntas sobre tareas. Ver código."></a>
-</p>
-<p align="center">
   <a href="https://diego200509.github.io/semaforo-ia.html?lang=es"><img src="./assets/ficha-semaforo.svg" width="388" alt="Semáforo IA. Esquema de un cruce que permite comparar control fijo y adaptativo. Probar el simulador."></a>
-  <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=es"><img src="./assets/ficha-rgb.svg" width="388" alt="Laboratorio RGB. Captura de la aplicación de escritorio para comparar canales, ajustar contraste tonal y consultar histogramas. Explorar el laboratorio."></a>
 </p>
-
 <p align="center">
+  <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=es"><img src="./assets/ficha-rgb.svg" width="388" alt="Laboratorio RGB. Captura de la aplicación de escritorio para comparar canales, ajustar contraste tonal y consultar histogramas. Explorar el laboratorio."></a>
   <a href="https://diego200509.github.io/asotema.html?lang=es#evidencia"><img src="./assets/ficha-asotema.svg" width="388" alt="ASOTEMA. Estado de cuenta de un socio ficticio. Ver la ficha y la captura de la aplicación."></a>
 </p>
 

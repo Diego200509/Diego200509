@@ -37,19 +37,15 @@
 <h2 align="center"><a href="#featured-projects"><img src="./assets/en/seccion-proyectos.svg" width="640" alt="Featured projects"></a></h2>
 
 <p align="center">
-  <a href="https://diego200509.github.io/?lang=en"><img src="./assets/en/ficha-distrito.svg" width="388" alt="Distrito Cero. A 3D neighborhood connecting my projects. Updated avatar in the restored plaza. Explore the district."></a>
   <a href="https://diego200509.github.io/?lang=en#featured"><img src="./assets/en/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. User registration and administration. 3D view of the Ambacar workshop. View the case study and demo."></a>
-</p>
-<p align="center">
   <a href="https://diego200509.github.io/talkapp.html?lang=en"><img src="./assets/en/ficha-talkapp.svg" width="388" alt="TalkApp. Chat, voice notes and video calls. App screenshot showing a test conversation. View the case study and demo."></a>
+</p>
+<p align="center">
   <a href="https://github.com/Diego200509/sicop-agente"><img src="./assets/en/ficha-sicop.svg" width="388" alt="SICOP Agente. Diagram of an assistant that uses SICOP data to answer questions about tasks. View source code."></a>
-</p>
-<p align="center">
   <a href="https://diego200509.github.io/semaforo-ia.html?lang=en"><img src="./assets/en/ficha-semaforo.svg" width="388" alt="Semáforo IA. Intersection diagram for comparing fixed-time and adaptive control. Try the simulator."></a>
-  <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=en"><img src="./assets/en/ficha-rgb.svg" width="388" alt="RGB Lab. Screenshot of the desktop app for comparing color channels, adjusting contrast and viewing histograms. Explore the lab."></a>
 </p>
-
 <p align="center">
+  <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=en"><img src="./assets/en/ficha-rgb.svg" width="388" alt="RGB Lab. Screenshot of the desktop app for comparing color channels, adjusting contrast and viewing histograms. Explore the lab."></a>
   <a href="https://diego200509.github.io/asotema.html?lang=en#evidencia"><img src="./assets/en/ficha-asotema.svg" width="388" alt="ASOTEMA. Account statement for a fictional member. View the case study and app screenshot."></a>
 </p>
 
