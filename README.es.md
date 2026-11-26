@@ -37,8 +37,8 @@
 <h2 align="center"><a href="#proyectos-destacados"><img src="./assets/seccion-proyectos.svg" width="640" alt="Proyectos destacados"></a></h2>
 
 <p align="center">
-  <a href="https://diego200509.github.io/?lang=es"><img src="./assets/ficha-distrito.svg" width="388" alt="Distrito Cero. Barrio 3D que conecta mis proyectos. Captura del juego. Explorar el distrito."></a>
-  <a href="https://diego200509.github.io/?lang=es#featured"><img src="./assets/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. Registro y administración de usuarios. Recreación del taller en 3D. Ver el caso y la demo."></a>
+  <a href="https://diego200509.github.io/?lang=es"><img src="./assets/ficha-distrito.svg" width="388" alt="Distrito Cero. Barrio 3D que conecta mis proyectos. Avatar actualizado en la plaza restaurada. Explorar el distrito."></a>
+  <a href="https://diego200509.github.io/?lang=es#featured"><img src="./assets/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. Registro y administración de usuarios. Vista 3D del taller de Ambacar. Ver el caso y la demo."></a>
 </p>
 <p align="center">
   <a href="https://diego200509.github.io/talkapp.html?lang=es"><img src="./assets/ficha-talkapp.svg" width="388" alt="TalkApp. Chats, notas de voz y videollamadas. Esquema de mensajería con Socket.IO. Ver la ficha y la demo."></a>
@@ -96,7 +96,7 @@
 <h2 align="center"><a href="#sobre-mi"><img src="./assets/seccion-perfil.svg" width="640" alt="Sobre mí"></a></h2>
 
 <p align="center">
-  <img src="./assets/sobre-diego.svg" width="100%" alt="Diego Jijón, estudiante de Ingeniería en Software en la Universidad Técnica de Ambato, con su avatar en la plaza de Distrito Cero.">
+  <img src="./assets/sobre-diego.svg" width="100%" alt="Diego Jijón, estudiante de Ingeniería en Software en la Universidad Técnica de Ambato, representado por su avatar actual en la plaza restaurada de Distrito Cero.">
 </p>
 
 Me gusta trabajar en aplicaciones de principio a fin. En Ambacar trabajé con interfaces y servicios para la administración de usuarios. En mis proyectos también he explorado cómo consultar el avance de una tarea con IA y cómo adaptar un semáforo al tráfico de un cruce.

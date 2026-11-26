@@ -37,8 +37,8 @@
 <h2 align="center"><a href="#featured-projects"><img src="./assets/en/seccion-proyectos.svg" width="640" alt="Featured projects"></a></h2>
 
 <p align="center">
-  <a href="https://diego200509.github.io/?lang=en"><img src="./assets/en/ficha-distrito.svg" width="388" alt="Distrito Cero. A 3D neighborhood connecting my projects. Game screenshot. Explore the district."></a>
-  <a href="https://diego200509.github.io/?lang=en#featured"><img src="./assets/en/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. User registration and administration. 3D recreation of the workshop. View the case study and demo."></a>
+  <a href="https://diego200509.github.io/?lang=en"><img src="./assets/en/ficha-distrito.svg" width="388" alt="Distrito Cero. A 3D neighborhood connecting my projects. Updated avatar in the restored plaza. Explore the district."></a>
+  <a href="https://diego200509.github.io/?lang=en#featured"><img src="./assets/en/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. User registration and administration. 3D view of the Ambacar workshop. View the case study and demo."></a>
 </p>
 <p align="center">
   <a href="https://diego200509.github.io/talkapp.html?lang=en"><img src="./assets/en/ficha-talkapp.svg" width="388" alt="TalkApp. Chat, voice notes and video calls. Socket.IO messaging diagram. View the case study and demo."></a>
@@ -96,7 +96,7 @@
 <h2 align="center"><a href="#about"><img src="./assets/en/seccion-perfil.svg" width="640" alt="About me"></a></h2>
 
 <p align="center">
-  <img src="./assets/en/sobre-diego.svg" width="100%" alt="Diego Jijón, a Software Engineering student at the Technical University of Ambato, with his avatar in the Distrito Cero plaza.">
+  <img src="./assets/en/sobre-diego.svg" width="100%" alt="Diego Jijón, a Software Engineering student at the Technical University of Ambato, pictured as his current in-game avatar in the restored Distrito Cero plaza.">
 </p>
 
 I enjoy working on applications end to end. At Ambacar, I worked on interfaces and services for user management. In my projects, I've also explored how AI can answer questions about a task's progress and how a traffic light can adapt to traffic at an intersection.
