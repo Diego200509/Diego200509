@@ -41,7 +41,7 @@
   <a href="https://diego200509.github.io/?lang=es#featured"><img src="./assets/ficha-ambacar.svg" width="388" alt="Ambacar · ZEUS. Registro y administración de usuarios. Vista 3D del taller de Ambacar. Ver el caso y la demo."></a>
 </p>
 <p align="center">
-  <a href="https://diego200509.github.io/talkapp.html?lang=es"><img src="./assets/ficha-talkapp.svg" width="388" alt="TalkApp. Chats, notas de voz y videollamadas. Esquema de mensajería con Socket.IO. Ver la ficha y la demo."></a>
+  <a href="https://diego200509.github.io/talkapp.html?lang=es"><img src="./assets/ficha-talkapp.svg" width="388" alt="TalkApp. Chats, notas de voz y videollamadas. Captura de la aplicación con una conversación de prueba. Ver la ficha y la demo."></a>
   <a href="https://github.com/Diego200509/sicop-agente"><img src="./assets/ficha-sicop.svg" width="388" alt="SICOP Agente. Esquema de un asistente que consulta datos de SICOP para responder preguntas sobre tareas. Ver código."></a>
 </p>
 <p align="center">
