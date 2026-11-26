@@ -42,7 +42,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Diego200509/sicop-agente"><img src="./assets/en/ficha-sicop.svg" width="388" alt="SICOP Agente. Diagram of an assistant that uses SICOP data to answer questions about tasks. View source code."></a>
-  <a href="https://diego200509.github.io/semaforo-ia.html?lang=en"><img src="./assets/en/ficha-semaforo.svg" width="388" alt="Semáforo IA. Intersection diagram for comparing fixed-time and adaptive control. Try the simulator."></a>
+  <a href="https://diego200509.github.io/semaforo-ia.html?lang=en"><img src="./assets/en/ficha-semaforo.svg" width="388" alt="Semáforo IA. Desktop simulator screenshots comparing fixed-time and adaptive fuzzy control. Try the simulator."></a>
 </p>
 <p align="center">
   <a href="https://diego200509.github.io/laboratorio-rgb.html?lang=en"><img src="./assets/en/ficha-rgb.svg" width="388" alt="RGB Lab. Screenshot of the desktop app for comparing color channels, adjusting contrast and viewing histograms. Explore the lab."></a>
